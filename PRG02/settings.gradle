@@ -1,0 +1,1 @@
+include ':mobile', ':wear', ':twitter4j-core-4.0.4'
